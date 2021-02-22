@@ -53,6 +53,10 @@ a{
     font-size: 0.6rem;
 }
 
+ul{
+    list-style-position: inside;
+}
+
 table{
     border-collapse: collapse;
 }
