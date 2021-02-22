@@ -52,3 +52,15 @@ a{
 .fonti-foto{
     font-size: 0.6rem;
 }
+
+table{
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: #21A9E4;
+}
+
+.riga-colorata{
+    background-color: #B1E5F2
+}
