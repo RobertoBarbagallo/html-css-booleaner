@@ -36,6 +36,7 @@ h1{
 
 p{
     font-size: 1 rem;
+ 
 
 }
 
@@ -45,5 +46,9 @@ a{
 }
 
 .data-documento{
-    font-size: 0.625rem;
+    font-size: 0.7rem;
+}
+
+.fonti-foto{
+    font-size: 0.6rem;
 }
