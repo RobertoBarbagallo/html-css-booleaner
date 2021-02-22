@@ -64,3 +64,18 @@ thead{
 .riga-colorata{
     background-color: #B1E5F2
 }
+
+.img-container{
+    position: relative;
+}
+
+
+.testo-contenitore{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+h2{
+    color: white;
+}
