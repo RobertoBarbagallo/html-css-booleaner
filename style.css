@@ -10,22 +10,18 @@ html{
 
 header{
     background-image: url(img/pattern.png);
-    height: 170px;
-    background-color: #4EA0FF;
-    position: relative;
+    background-color: #4EA0FF;   
 }
 
 .logo{
-    position: absolute;
-    object-fit: contain;
-    width: auto;
-    height: 50%;
-    transform: translate(20%, 100%);
+    padding-top: 50px;
+    width: 200px;
+    margin-bottom: 0px;
 }
 
-.big-container{
-    margin-left: 5%;
-    margin-right: 5%;
+.container{
+    width: 1200px;
+    margin: auto;
 }
 
 h1{
