@@ -26,7 +26,6 @@ header{
 .big-container{
     margin-left: 5%;
     margin-right: 5%;
-    /* background-color: red; */
 }
 
 h1{
@@ -36,8 +35,6 @@ h1{
 
 p{
     font-size: 1 rem;
- 
-
 }
 
 a{
